@@ -27,3 +27,10 @@ Route::get('/about', function () {
         'active' => 'about',
     ]);
 });
+
+Route::get('/faq', function () {
+    return view('faq', [
+        "title" => "FAQ",
+        'active' => 'faq',
+    ]);
+});
