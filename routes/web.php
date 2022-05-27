@@ -21,16 +21,3 @@ Route::get('/', function () {
     ]);
 });
 
-Route::get('/about', function () {
-    return view('about', [
-        "title" => "About",
-        'active' => 'about',
-    ]);
-});
-
-Route::get('/faq', function () {
-    return view('faq', [
-        "title" => "FAQ",
-        'active' => 'faq',
-    ]);
-});
