@@ -85,7 +85,7 @@
       </div>
       <div class="col-md-8 mt-5 mb-2 mx-auto">
         <h2>Mengalami Kendala ?</h2>
-        <p>Segera laporkan jika kamu mengalami kendala pada saat pendaftaran, pembayaran, atau terjadi masalah dengan akun langganan kamu. Kami akan segera menghubungi kamu untuk membantu menyelesaikan kendala yang kamu hadapi.</p>
+        <p>Segera laporkan jika kamu mengalami kendala pada  pembayaran, atau terjadi masalah lainnya. Kami akan segera menghubungi kamu untuk membantu menyelesaikan kendala yang kamu hadapi.</p>
         <a href="#" class="text-decoration-none d-grid">
           <button class="btn d-block">
             Ajukan Laporan
